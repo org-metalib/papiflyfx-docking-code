@@ -1,0 +1,14 @@
+.pf-goto-title {
+    -fx-font-size: 12px;
+    -fx-text-fill: -pf-ui-text-primary;
+}
+
+.pf-goto-field:invalid {
+    -fx-border-color: -pf-ui-danger;
+    -fx-background-color: -pf-ui-danger-subtle;
+}
+
+.pf-goto-icon {
+    -fx-fill: -pf-ui-text-primary;
+    -fx-stroke: -pf-ui-text-primary;
+}

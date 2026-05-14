@@ -1,0 +1,21 @@
+.pf-search-row {
+    -fx-spacing: 4;
+    -fx-alignment: center-left;
+}
+
+.pf-search-input-wrap {
+    -fx-alignment: center-left;
+}
+
+.pf-search-leading-icon {
+    -fx-padding: 0 0 0 8;
+}
+
+.pf-search-field:no-results {
+    -fx-border-color: -pf-ui-danger;
+    -fx-background-color: -pf-ui-danger-subtle;
+}
+
+.pf-search-icon {
+    -fx-fill: -pf-ui-text-primary;
+}
