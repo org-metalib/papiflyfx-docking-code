@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.metalib.papifly.docking</groupId>
         <artifactId>papiflyfx-docking-code-parent</artifactId>
-        <version>0.0.25-SNAPSHOT</version>
+        <version>0.0.25</version>
     </parent>
     <name>papiflyfx-docking-code-yaml</name>
     <description>YAML language pack for the PapiflyFX code editor.</description>
