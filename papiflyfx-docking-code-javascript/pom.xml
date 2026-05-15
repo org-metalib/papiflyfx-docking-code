@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.metalib.papifly.docking</groupId>
         <artifactId>papiflyfx-docking-code-parent</artifactId>
-        <version>0.0.25</version>
+        <version>0.0.26-SNAPSHOT</version>
     </parent>
     <name>papiflyfx-docking-code-javascript</name>
     <description>JavaScript language pack for the PapiflyFX code editor.</description>
