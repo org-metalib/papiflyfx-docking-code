@@ -20,4 +20,10 @@
         <module>papiflyfx-docking-code-yaml</module>
         <module>papiflyfx-docking-code-markdown</module>
     </modules>
+    <scm>
+        <connection>scm:git:git://github.com/org-metalib/papiflyfx-docking-code.git</connection>
+        <developerConnection>scm:git:https://github.com/org-metalib/papiflyfx-docking-code.git</developerConnection>
+        <url>https://github.com/org-metalib/papiflyfx-docking-code</url>
+        <tag>HEAD</tag>
+    </scm>
 </project>
